@@ -1,0 +1,14 @@
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\bin\Debug\LAB4.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\bin\Debug\LAB4.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.Form1.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.About.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.SDI_Input.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.SDI_Output.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB4\obj\Debug\LAB4.SDI_Proc.resources

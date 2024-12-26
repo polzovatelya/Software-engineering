@@ -1,0 +1,30 @@
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe.config
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.pdb
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.AssemblyReference.cache
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.g.cs
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\App.g.cs
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.cache
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.lref
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.baml
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.g.resources
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.Properties.Resources.resources
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.GenerateResource.cache
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.exe
+C:\Users\ivanfrolov\source\repos\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe.config
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.AssemblyReference.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.g.cs
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\App.g.cs
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.lref
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.baml
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.g.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.Properties.Resources.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.GenerateResource.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.pdb

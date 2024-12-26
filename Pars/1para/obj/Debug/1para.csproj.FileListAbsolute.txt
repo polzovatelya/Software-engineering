@@ -1,0 +1,7 @@
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\bin\Debug\1para.exe.config
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\bin\Debug\1para.exe
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\bin\Debug\1para.pdb
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\obj\Debug\1para.csproj.AssemblyReference.cache
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\obj\Debug\1para.csproj.CoreCompileInputs.cache
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\obj\Debug\1para.exe
+C:\Users\gagag\OneDrive\Рабочий стол\3 курс\Прога\Pars\1para\obj\Debug\1para.pdb

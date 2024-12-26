@@ -1,0 +1,6 @@
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\laba7\laba7\bin\Debug\laba7.dll
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\laba7\laba7\obj\Debug\laba7.csproj.AssemblyReference.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\laba7\laba7\obj\Debug\laba7.dll
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\laba7\laba7\obj\Debug\laba7.pdb

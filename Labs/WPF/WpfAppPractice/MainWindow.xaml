@@ -1,0 +1,114 @@
+﻿<Window x:Class="WpfAppPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPractice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="516" Width="800">
+    <Grid Margin="0,0,10,-6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="23*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="343*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Margin="4,35,28,71" RenderTransformOrigin="0.503,0.546" Grid.ColumnSpan="4">
+            <Menu.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="2.819"/>
+                    <RotateTransform Angle="3.816"/>
+                    <TranslateTransform X="-4.272" Y="11.325"/>
+                </TransformGroup>
+            </Menu.RenderTransform>
+            <MenuItem x:Name="file" Header="File" Margin="10,0,0,0" Click="MenuItem_Click" >
+                <MenuItem Header="Exit" Margin="10,0,0,0" />
+            </MenuItem>
+            <MenuItem x:Name="proc" Header="Proc" Margin="20,0,0,0" />
+            <MenuItem x:Name="result" Header="Result" Margin="10,0,0,0" />
+            <Button Background="#FFE7B5B5"/>
+        </Menu>
+        <TextBox x:Name="text_komand" HorizontalAlignment="Left" Height="31" Margin="48,133,0,0" TextWrapping="Wrap" Text="Команда" VerticalAlignment="Top" Width="130" RenderTransformOrigin="0.5,0.5" Grid.Row="1" Grid.ColumnSpan="2">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="text_trener" Grid.Column="1" HorizontalAlignment="Left" Height="31" Margin="173,140,0,0" TextWrapping="Wrap" Text="Тренер" VerticalAlignment="Top" Width="130" RenderTransformOrigin="0.5,0.5" Grid.Row="1" Grid.ColumnSpan="2">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="text_win" Grid.Column="2" HorizontalAlignment="Left" Height="31" Margin="165,133,0,0" TextWrapping="Wrap" Text="Победы" VerticalAlignment="Top" Width="130" RenderTransformOrigin="0.5,0.5" Grid.Row="1" Grid.ColumnSpan="2">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="index" Grid.Column="3" HorizontalAlignment="Left" Height="31" Margin="152,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="right" Background="White" FontWeight="Bold" BorderBrush="#FF2C00FF" BorderThickness="5" Padding="5" Foreground="Red" Margin="195,19,99,93" RenderTransformOrigin="0.521,0.534" Grid.Column="3" Grid.Row="2" Click="right" Content="-&gt;" FontSize="16" FontFamily="Segoe UI Black"  />
+        <Button x:Name="left" Background="White" FontWeight="Bold" BorderBrush="#FF2C00FF" BorderThickness="5" Padding="5" Foreground="Red" Margin="112,19,183,97" RenderTransformOrigin="0.44,0.583" Grid.Column="3" Grid.Row="2" Click="left" Content="&lt;-" FontSize="16" FontFamily="Arial Black" />
+        <Button x:Name="add_but" Background="White" FontWeight="Bold" Padding="5" Foreground="Black" Margin="71,47,3,67" RenderTransformOrigin="0.44,0.583" Grid.Column="1" Grid.Row="2" Click="add_but" Content="Добавить" FontSize="16" FontFamily="Arial Black" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="87.098"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+
+
+        <Button x:Name="redact_but" Background="White" FontWeight="Bold" Padding="5" Foreground="Black" Margin="139,23,131,78" RenderTransformOrigin="0.44,0.583" Grid.Column="1" Grid.Row="1" Click="redact_but" Content="Изменить" FontSize="16" FontFamily="Arial Black" Grid.ColumnSpan="2" >
+        <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="164.513"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="del_but" Background="White" FontWeight="Bold" Padding="5" Foreground="Black" Margin="43,40,159,60" RenderTransformOrigin="0.44,0.583" Grid.Column="3" Grid.Row="1" Click="del_but" Content="Удалить" FontSize="16" FontFamily="Arial Black" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-27.387"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

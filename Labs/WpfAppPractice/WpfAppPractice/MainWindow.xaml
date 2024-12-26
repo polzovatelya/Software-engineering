@@ -1,0 +1,70 @@
+﻿<Window x:Class="WpfAppPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPractice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="23*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="343*"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="3" Content="Quit" FontSize="20" Name="btnQuit" Click="btnQuit_Click" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="49" Width="121" VerticalContentAlignment="Center"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="436" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="35" Grid.ColumnSpan="3" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-37.529"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <DataGrid Name="dG1" Margin="25,22,176,139" Grid.RowSpan="2" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-37.203"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+        </DataGrid>
+        <Menu Margin="85,50,85,44" Grid.Column="3" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <Menu.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="55.288"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Menu.RenderTransform>
+            <Button Background="White" FontWeight="Black" Content="ZOV" BorderBrush="#FF2C00FF" BorderThickness="5" Padding="5" Foreground="Red"/>
+            <MenuItem Header="Work" Margin="10,0,0,0" >
+                <MenuItem Header="Proc">
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="71" Margin="65,45,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="4" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+
+    </Grid>
+</Window>

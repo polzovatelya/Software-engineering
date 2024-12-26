@@ -1,0 +1,13 @@
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\bin\Debug\l5.exe.config
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\bin\Debug\l5.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\bin\Debug\l5.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.csproj.AssemblyReference.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.Form1.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.Properties.Resources.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.csproj.GenerateResource.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.csproj.CoreCompileInputs.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.AboutBox1.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.Form3.resources
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\lab4\LAB5\l5\obj\Debug\l5.Result.resources

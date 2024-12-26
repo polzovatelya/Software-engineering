@@ -1,0 +1,7 @@
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\obj\Debug\Sofa_2.csproj.AssemblyReference.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\obj\Debug\Sofa_2.csproj.CoreCompileInputs.cache
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\bin\Debug\Sofa_2.exe.config
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\bin\Debug\Sofa_2.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\bin\Debug\Sofa_2.pdb
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\obj\Debug\Sofa_2.exe
+C:\Users\gagag\Desktop\3 курс\Прога\Labs\Sofa_2\obj\Debug\Sofa_2.pdb
